@@ -4,7 +4,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 
 ## 🧑‍💻 About
 
-I'm Josip Budiša, a third-year Computer Science student at FESB. I'm passionate about web development, especially frontend technologies like HTML, CSS, and JavaScript. This site is a place to share my work, track my learning, and connect with others.
+I'm Josip Budisa, a third-year Computer Science student at FESB. I'm passionate about web development, especially frontend technologies like HTML, CSS, and JavaScript. This site is a place to share my work, track my learning, and connect with others.
 
 ## 🛠️ Built With
 
